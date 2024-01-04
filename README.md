@@ -1,5 +1,5 @@
 <h1>
- Welcome to the Isaac De La Vina's Creative Suite 
+ Welcome to the Isaac De La Vina's GitHub
 </h1>
 
 
