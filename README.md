@@ -17,4 +17,5 @@
 <h1>Other Tools</h1>
 <ul>
  <li>Figma</li>
+ <li>Photoshop</li>
 </ul>
