@@ -1,11 +1,20 @@
-<h1> Hola! I am Isaac De La Vina <br> Programmer & Web Developer</h1>
+# Howdy y'all, I am Isaac Joseph De La Vina
+<h2>🔭 I’m currently working on ...</h2>
+<ul>
+  <li>A review site with my two colleagues as a capstone project</li>
+</ul>
+
+<h2>🌱 I’m currently learning ...</h2>
+<ul>
+  <li>Object Oriented Programming with Java</li>
+  <li>Collaborating on a Web Application using Git & GitHub</li>
+</ul>
+
+<h2>📫 Connect with me through ...</h2>
+<p>Linkedin: <a href="https://www.linkedin.com/in/isaac-joseph-de-la-vina-8a2017279/">Isaac Joseph De La Vina </a></p>
+<p>Email: isaacdelavina2000@gmail.com</p>
 
 
-
-
-<h1>Connect with me:</h1>
-<a href="https://www.linkedin.com/in/isaac-joseph-de-la-vina-8a2017279/">Linkedin</a>
-<p>Gmail: <span>isaacdelavina2000@gmail.com</span></p>
 
 
 
