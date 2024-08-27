@@ -1,7 +1,7 @@
 # Howdy y'all, I am Isaac Joseph De La Vina
 <h2>🔭 I’m currently working on ...</h2>
 <ul>
-  <li>A review site with my two colleagues as a capstone project</li>
+  <li>A Browser Game using React </li>
 </ul>
 
 <h2>🌱 I’m currently learning ...</h2>
