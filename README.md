@@ -6,11 +6,7 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
-  <li>Object Oriented Programming with Java</li>
-    <ul>
-      <li><a href="https://github.com/IsaacDeLaVina/Java-Project-Collection">Java Project Collection</a></li>
-    </ul>
-  <li>Collaborating on a Web Application using Git & GitHub</li>
+  <li>Data Structures and Algorithms</li>
 </ul>
 
 <h2>📫 Connect with me through ...</h2>
